@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄  Languages: Arabic, English.
+    Languages: Arabic, English.
 </p>
 
 <p align="left">
-  💌 You can find me here: ⤵️
+   You can find me here: ⤵️
 </p>
 
 <p align="left">
