@@ -29,3 +29,6 @@
   </td>
   </tr>
 </table>
+
+![snake gif](https://github.com/7gzz/7gzz/blob/output/github-snake-dark.svg)
+
