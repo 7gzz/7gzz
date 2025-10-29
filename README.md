@@ -4,7 +4,7 @@
 
   <h3>Hi, I'm Abdallah Hegazy!</h3>
   <p>
-    I'm a <b>Laravel backend developer</b> and <b>competitive programmer</b> who loves creating clean, reliable backend systems and solving coding problems.
+    A <b>Laravel backend developer</b> and <b>competitive programmer</b> who loves creating clean, reliable backend systems and solving coding problems.
   </p>
 
   <h4>🛠️ Tech Stack</h4>
@@ -31,4 +31,3 @@
 </table>
 
 ![snake gif](https://github.com/7gzz/7gzz/blob/output/github-snake-dark.svg)
-
