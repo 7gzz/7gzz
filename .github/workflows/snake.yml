@@ -44,7 +44,7 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/checkout@v3
+        uses: actions/checkout@v0.2
 
 
 
@@ -52,7 +52,7 @@ jobs:
 
       - name: Generate GitHub Contributions Snake Animations
 
-        uses: 7gzz/snk@v0.1
+        uses: 7gzz/snk@v0.2
 
         with:
 
